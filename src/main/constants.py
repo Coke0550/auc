@@ -1,0 +1,9 @@
+EMBED_FOOTER_TEXT = "github.com/destorylm/Claimable-ROBLOX-Groups-Finder-V3"
+
+DEFAULT_ID_SLACK = 100000
+DEFAULT_RANGES = (
+    (1, 17412900),
+    (32000000, 32078300),
+    (32300000, 33310000)
+
+)
